@@ -1,0 +1,16 @@
+package main 
+import "fmt"
+
+func main() {
+    var mynamena = "Aderson"
+    fmt.println("my name is", mynamena)
+
+    var name string = "kathy"
+    fmt.println("name = ", name)
+
+    Username := "admin"
+    fmt.println("this sum is", sum)
+
+    part1, other := 1, 5
+    fmt.println("part 1 is" part1, "other is", other)
+    
